@@ -15,12 +15,12 @@ Follow these steps to install and use the script:
 
 2. **Make the script executable**:
    ```bash
-   chmod +x setup-termux.sh
+   chmod +x termux-customize.sh
    ```
 
 3. **Run the script**:
    ```bash
-   ./setup-termux.sh
+   ./termux-customize.sh
    ```
 
 4. **Restart Termux** to apply all changes.
